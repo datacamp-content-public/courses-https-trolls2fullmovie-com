@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## https://trolls2fullmovie.com/
+
+```yaml
+type: VideoExercise
+key: 336aceab2a
+xp: 50
+```
+
+`@projector_key`
+016d7efd7f81d86b29b8290c27122924
